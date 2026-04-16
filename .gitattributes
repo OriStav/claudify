@@ -3,3 +3,4 @@
 
 # Exclude assets from git archives (often used by tools downloading the repo)
 .assets export-ignore
+LICENSE export-ignore
