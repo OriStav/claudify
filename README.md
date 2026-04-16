@@ -284,3 +284,6 @@ graph TD
         A_TESTS -.->|covers| A_PIPELINE & A_CONFIG
     end
 ```
+
+## License
+MIT
