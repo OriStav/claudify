@@ -1,4 +1,4 @@
-# 🧹 Claudify
+# 🧹 Claudify SKILL
 
 ![Claudify Animation Placeholder](.assets/claudify_animation.gif)
 
